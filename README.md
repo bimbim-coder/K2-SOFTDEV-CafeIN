@@ -1,14 +1,13 @@
-# K2 - Software Development 
-# PROJEK 
-CafeIN - Manajemen Coffe Shop
-# ANGGOTA P
+# K2 - CafeIN Manajemen Coffe Shop
+# PROJEK Software Development
+# Daftar Anggota
 1. Bima Abidzar
 2. Yusuf Kurniawan
 3. Azka Zulfa
 # DESKRIPSI SINGKAT PROJEK CafeIN
 CafeIN adalah Aplikasi/Website yang berfokus pada otomatisasi rekap data operasional dan perhitungan pendapatan bulanan secara akurat, sehingga pemilik kafe dapat memantau performa keuangan bisnis mereka secara real-time tanpa perlu pencatatan manual.
-
-# Alur Peta Aplikasi 
+# Road Map Projek
+```mermaid
 +------------------------------------------------------------------------+
 |                   PUBLIC & AUTHENTICATION                              |
 +------------------------------------------------------------------------+
@@ -77,3 +76,4 @@ CafeIN adalah Aplikasi/Website yang berfokus pada otomatisasi rekap data operasi
 |  - Activity History                                                    |
 |                                                                        |
 +------------------------------------------------------------------------+
+```
