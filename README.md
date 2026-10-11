@@ -9,6 +9,7 @@ CafeIN adalah Aplikasi/Website yang berfokus pada otomatisasi rekap data operasi
 
 
 # Road Map Projek
+## 1 Workflow
 ```mermaid
 +------------------------------------------------------------------------+
 |                   PUBLIC & AUTHENTICATION                              |
